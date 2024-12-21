@@ -11,7 +11,8 @@ h1, h2, h3, h4, h5, h6 {
 .w3-top {
   position: sticky;
   top: 0;
-  outline: 3px;
+  overflow: hidden;
+  height: 50px;
 }
 
 .w3-top a {
