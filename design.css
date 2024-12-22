@@ -10,8 +10,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .w3-top {
   position: sticky;
-  color: #ffffffff;
-  overflow: hidden;
+  top: 0;
+  z-index: 1000;
+  background-color: white;
 }
 
 .w3-top a {
