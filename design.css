@@ -43,3 +43,27 @@ h2, h3, h4, h5, h6 {
 .image {
   overflow: hidden;
 }
+
+.l-square {
+  position: absolute;
+  border-size: 5px;
+  border-color: #6d556a;
+  width: 400px;
+  height: 200px;
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 50%;
+}
+
+.r-square {
+  position: absolute;
+  border-size: 5px;
+  border-color: #6d556a;
+  width: 400px;
+  height: 200px;
+  border-top-right-radius: 0;
+  border-top-left-radius: 0;
+  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 0;
+}
