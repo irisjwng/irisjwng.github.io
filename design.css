@@ -9,7 +9,7 @@ h2, h3, h4, h5, h6 {
   font-family: "Libre Baskerville";
 }
 
-.w3-top {
+.top {
   position: sticky;
   top: 0;
   background-color: white;
@@ -17,7 +17,7 @@ h2, h3, h4, h5, h6 {
   overflow: hidden;
 }
 
-.w3-top a {
+.top a {
   float: left;
   color: #7b19b086;
   text-align: center;
@@ -27,16 +27,16 @@ h2, h3, h4, h5, h6 {
   z-index:999
 }
 
-.w3-top a:hover {
+.top a:hover {
   color: #3a0855;
 }
 
-.w3-card {
+.card {
   z-index:1000;
   box-shadow:0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 }
 
-.w3-right {
+.right {
   float:right!important;
 }
 
