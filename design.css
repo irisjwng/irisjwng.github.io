@@ -44,9 +44,6 @@ h2, h3, h4, h5, h6 {
   overflow: hidden;
 }
 .half-box {
-  width: 500px;
-  padding: 20px;
-  content: ' ';
   position: absolute;
   width: 200px;
   height: 50px;
