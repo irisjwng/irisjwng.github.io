@@ -43,18 +43,18 @@ h2, h3, h4, h5, h6 {
 .image {
   overflow: hidden;
 }
-
 .half-box {
   position: relative;
   width: 500px;
+  background-color: #eeeeee;
+  padding: 20px;
 }
 .half-box::before {
   content: ' ';
   position: absolute;
-  width: 200;
-  height: 50;
-  border-top: 5px #6d566a;
-  border-left: 5px #6d566a;
-  border-bottom-left-radius: 20px;
+  width: calc(100% - 40px);
+  height: calc(100% - 40px);
+  border-top: 1px solid black;
+  border-left: 1px solid black;
 }
 
