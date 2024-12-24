@@ -45,7 +45,7 @@ h2, h3, h4, h5, h6 {
 }
 
 .half-box {
-  position: relative;
+  position: absolute;
   top: 100px;
   left: 500px;
   width: 300px;
@@ -54,3 +54,4 @@ h2, h3, h4, h5, h6 {
   border-left: 5px #6d566a;
   border-bottom-left-radius: 20px;
 }
+
