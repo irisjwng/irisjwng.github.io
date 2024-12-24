@@ -44,16 +44,12 @@ h2, h3, h4, h5, h6 {
   overflow: hidden;
 }
 .half-box {
-  position: relative;
   width: 500px;
-  background-color: #eeeeee;
   padding: 20px;
-}
-.half-box::before {
   content: ' ';
   position: absolute;
-  width: calc(100% - 40px);
-  height: calc(100% - 40px);
+  width: 200px;
+  height: 50px;
   border-top: 1px solid black;
   border-left: 1px solid black;
 }
