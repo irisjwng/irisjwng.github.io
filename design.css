@@ -8,7 +8,9 @@ h1 { font-family: "Playfair Display";}
 h2, h3, h4, h5, h6 {
   font-family: "Libre Baskerville";
 }
-
+span {
+  background-color: white;
+}
 
 .top {
   position: sticky;
