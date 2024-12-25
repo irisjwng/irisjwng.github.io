@@ -13,6 +13,8 @@ h1 span {
   background-color: white;
   position:absolute;
   top: 10px;
+  font-size: 40px;
+  font-color: black;
 }
 
 .top {
