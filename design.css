@@ -8,9 +8,11 @@ h1 { font-family: "Playfair Display";}
 h2, h3, h4, h5, h6 {
   font-family: "Libre Baskerville";
 }
-span {
+h1 span {
   text-align: center;
   background-color: white;
+  position:absolute;
+  top: 10px;
 }
 
 .top {
