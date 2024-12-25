@@ -22,6 +22,7 @@ h1 span {
   top: 0;
   background-color: white;
   z-index:998;
+  min-width: 1080px;
   overflow: hidden;
 }
 
