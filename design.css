@@ -58,7 +58,6 @@ h2, h3, h4, h5, h6 {
 
 .half-box-1 {
   position: absolute;
-  top: 85px;
   left:800px;
   width: 320px;
   height: 90px;
@@ -66,6 +65,28 @@ h2, h3, h4, h5, h6 {
   border-right: 5px solid;
   border-color: #6e576c;
   border-top-right-radius: 20px;
+}
+
+.half-box-2 {
+  position: absolute;
+  left:480px;
+  width: 320px;
+  height: 90px;
+  border-bottom: 5px solid;
+  border-right: 5px solid;
+  border-color: #6e576c;
+  border-bottom-right-radius: 20px;
+}
+
+.half-box-3 {
+  position: absolute;
+  left:800px;
+  width: 320px;
+  height: 90px;
+  border-top: 5px solid;
+  border-left: 5px solid;
+  border-color: #6e576c;
+  border-top-left-radius: 20px;
 }
 
 .r-text-box {
