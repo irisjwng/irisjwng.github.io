@@ -68,3 +68,33 @@ h2, h3, h4, h5, h6 {
   border-color: #6e576c;
   border-top-right-radius: 20px;
 }
+
+.r-text-box {
+  position: absolute;
+  left: 880px;
+  border: 10px solid;
+  border-color: #e2c8f7;
+  width: 400px;
+  height: 400px;
+  padding: 30px;
+  background-color: white;
+  border-radius: 20px;
+  color: #6e576c;
+  text-align: center;
+  line-height: 20px;
+}
+
+.l-text-box {
+  position: absolute;
+  left: 300px;
+  border: 10px solid;
+  border-color: #e2c8f7;
+  width: 400px;
+  height: 400px;
+  padding: 30px;
+  background-color: white;
+  border-radius: 20px;
+  color: #6e576c;
+  text-align: center;
+  line-height: 20px;
+}
