@@ -62,7 +62,7 @@ h2, h3, h4, h5, h6 {
   border-top: 5px solid;
   border-right: 5px solid;
   border-color: #6e576c;
-  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
 
 
