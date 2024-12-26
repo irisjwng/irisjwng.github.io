@@ -9,6 +9,7 @@ h2, h3, h4, h5, h6 {
   font-family: "Libre Baskerville";
 }
 h1 span {
+  z-index: 1000;
   text-align: center;
   padding: 2px;
   background-color: white;
