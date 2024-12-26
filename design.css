@@ -68,7 +68,7 @@ h1 span {
 
 .half-box {
   position: absolute;
-  width: 320px;
+  width: 340px;
   left:430px;
   height: 92px;
   border-bottom: 5px solid;
@@ -81,7 +81,7 @@ h1 span {
   position: absolute;
   top:92px;
   left:800px;
-  width: 320px;
+  width: 340px;
   height: 92px;
   border-top: 5px solid;
   border-right: 5px solid;
@@ -92,7 +92,7 @@ h1 span {
 .half-box-2 {
   position: absolute;
   left:800px;
-  width: 320px;
+  width: 340px;
   height: 92px;
   border-bottom: 5px solid;
   border-right: 5px solid;
@@ -104,7 +104,7 @@ h1 span {
   position: absolute;
   top:92px;
   left:430px;
-  width: 320px;
+  width: 340px;
   height: 92px;
   border-top: 5px solid;
   border-left: 5px solid;
