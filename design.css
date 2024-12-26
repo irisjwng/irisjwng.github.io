@@ -60,7 +60,7 @@ h1 span {
 .half-box {
   position: absolute;
   width: 320px;
-  left:480px;
+  left:460px;
   height: 92px;
   border-bottom: 5px solid;
   border-left: 5px solid;
@@ -94,7 +94,7 @@ h1 span {
 .half-box-3 {
   position: absolute;
   top:92px;
-  left:480px;
+  left:460px;
   width: 320px;
   height: 92px;
   border-top: 5px solid;
