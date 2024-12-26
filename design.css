@@ -69,6 +69,7 @@ h1 span {
 
 .half-box-1 {
   position: absolute;
+  top:92px;
   left:800px;
   width: 320px;
   height: 92px;
@@ -91,6 +92,7 @@ h1 span {
 
 .half-box-3 {
   position: absolute;
+  top:92px;
   left:480px;
   width: 320px;
   height: 92px;
@@ -113,6 +115,7 @@ h1 span {
   color: #6e576c;
   text-align: center;
   line-height: 20px;
+  z-index: 1000;
 }
 
 .l-text-box {
@@ -128,4 +131,5 @@ h1 span {
   color: #6e576c;
   text-align: center;
   line-height: 20px;
+  z-index: 1000;
 }
