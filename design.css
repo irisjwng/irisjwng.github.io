@@ -13,6 +13,16 @@ div {
   text-align:center;
 }
 
+img {
+  position: absolute;
+  overflow: hidden;
+}
+
+video {
+  position: absolute;
+  overflow: hidden;
+}
+
 h1 span {
   z-index: 1000;
   text-align: center;
@@ -54,11 +64,6 @@ h1 span {
 
 .right {
   float:right!important;
-}
-
-.image {
-  position: absolute;
-  overflow: hidden;
 }
 
 .half-box {
