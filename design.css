@@ -57,6 +57,7 @@ h1 span {
 }
 
 .image {
+  position: absolute;
   overflow: hidden;
 }
 
