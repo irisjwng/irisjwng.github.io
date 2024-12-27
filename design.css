@@ -66,6 +66,10 @@ h1 span {
   float:right!important;
 }
 
+.left {
+  left:0!important;
+}
+
 .half-box {
   position: absolute;
   width: 400px;
