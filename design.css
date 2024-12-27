@@ -66,10 +66,6 @@ h1 span {
   float:right!important;
 }
 
-.left {
-  left:-100!important;
-}
-
 .half-box {
   position: absolute;
   width: 400px;
@@ -222,6 +218,7 @@ h1 span {
 .dot {
   position:relative;
   top:230px;
+  left: 50px;
   cursor: pointer;
   height: 15px;
   width: 15px;
