@@ -67,7 +67,7 @@ h1 span {
 }
 
 .left {
-  left:0!important;
+  left:-100!important;
 }
 
 .half-box {
