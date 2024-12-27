@@ -149,14 +149,15 @@ h1 span {
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1280px;
+  max-width: 800px;
+  height:auto;
   position: relative;
   margin: auto;
 }
 
 /* Hide the images by default */
 .mySlides {
-  
+  display:none;
 }
 
 /* Next & previous buttons */
