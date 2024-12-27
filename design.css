@@ -221,6 +221,7 @@ h1 span {
 /* The dots/bullets/indicators */
 .dot {
   position:relative;
+  top:230px;
   cursor: pointer;
   height: 15px;
   width: 15px;
