@@ -152,7 +152,7 @@ h1 span {
 
 /* Slideshow container */
 .slideshow-container {
-  width: 700px;
+  width: 600px;
   height:auto;
   position: relative;
 }
@@ -173,7 +173,6 @@ h1 span {
   top: 50%;
   transform: translateY(-50%);
   width: auto;
-  margin-top: -22px;
   padding: 16px;
   color: white;
   font-weight: bold;
