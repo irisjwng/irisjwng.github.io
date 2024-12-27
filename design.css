@@ -155,7 +155,7 @@ h1 span {
   max-width: 700px;
   height:auto;
   position: relative;
-  /*margin: auto;*/
+  margin: auto;
 }
 
 /* Hide the images by default */
