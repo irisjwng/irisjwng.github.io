@@ -233,8 +233,8 @@ h1 span {
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   animation: 
     typing 3.5s steps(40, end),
-    animation-duration:1.5s,
     blink-caret .75s step-end infinite;
+  animation-duration:2s;
 }
 
 .title-delay {
@@ -245,8 +245,9 @@ h1 span {
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   animation: 
     typing 3.5s steps(40, end),
-    animation-delay: 1.7s,
     blink-caret .75s step-end infinite;
+  animation-delay: 2s;
+  animation-duration:2s;
 }
 
 /* The typing effect */
