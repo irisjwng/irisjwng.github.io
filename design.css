@@ -234,7 +234,7 @@ h1 span {
   animation: 
     typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
-  animation: hideCursor 5s;
+  animation: hideCursor;
 }
 
 .title-delay {
