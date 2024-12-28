@@ -3,7 +3,12 @@
   padding: 0;
 }
 
-body {font-family: "Varela Round"; overflow:auto; width:1920px;}
+body {
+  font-family: "Varela Round";
+  overflow:auto;
+  width:1920px;
+  margin:0 auto;}
+
 h1 { font-family: "Playfair Display";}
 h2, h3, h4, h5, h6 {
   font-family: "Libre Baskerville";
