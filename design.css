@@ -158,10 +158,6 @@ h1 span {
    display:none;
 }
 
-.mySlides:first-child {
-  display:block;
-}
-
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
