@@ -220,3 +220,15 @@ h1 span {
   from {opacity: .4}
   to {opacity: 1}
 }
+
+@keyframes blink {
+  50% {
+    border-color: transparent;
+  }
+}
+
+@keyframes type {
+  0% {
+    width: 0;
+  }
+}
