@@ -235,6 +235,7 @@ h1 span {
   animation: 
     typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
+  animation: hideCursor 5s;
 }
 
 .title-delay {
@@ -248,7 +249,6 @@ h1 span {
     typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
   animation-delay: 5s;
-  
 }
 
 /* The typing effect */
@@ -261,4 +261,16 @@ h1 span {
 @keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: #6e576c; }
+}
+
+@keyframes hideCursor {
+  0% {
+    border-color: #6e576c;
+  }
+  99% {
+    border-color: #6e576c;
+  }
+  100% {
+    border-color: transparent;
+  }
 }
