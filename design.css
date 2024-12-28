@@ -196,6 +196,7 @@ h1 span {
 
 /* The dots/bullets/indicators */
 .dot {
+  display: inline-block;
   position:relative;
   top:560px;
   left: 50px;
