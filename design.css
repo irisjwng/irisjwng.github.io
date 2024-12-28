@@ -44,7 +44,7 @@ h1 span {
 }
 
 .top {
-  position: sticky;
+  position: fixed;
   top: 0;
   background-color: white;
   z-index:998;
