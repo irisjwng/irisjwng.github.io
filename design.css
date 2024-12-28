@@ -233,7 +233,6 @@ h1 span {
   animation: 
     typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
-  animation-duration:3s;
 }
 
 .title-delay {
@@ -244,8 +243,7 @@ h1 span {
   animation: 
     typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
-  animation-delay: 3s;
-  animation-duration: 3s;
+  animation-delay: 3.5s;
 }
 
 /* The typing effect */
