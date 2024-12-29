@@ -243,7 +243,7 @@ h1 span {
   animation: 
     typing 2s steps(40, end),
     blink-caret .75s step-end 3;
-  animation-delay: 1.25s;
+  animation-delay: 1.5s;
   animation-fill-mode: both;
 }
 
