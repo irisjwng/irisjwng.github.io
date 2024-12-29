@@ -255,6 +255,6 @@ h1 span {
 
 /* The typewriter cursor effect */
 @keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: #6e576c; }
+  from, to { border-color: #6e576c; }
+  50% { border-color: transparent; }
 }
