@@ -225,7 +225,7 @@ h1 span {
   animation-duration: 1.5s;
 }
 
-.title {
+.title h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   display: inline-flex;
   border-right: .15em solid #6e576c; /* The typwriter cursor */
@@ -236,7 +236,7 @@ h1 span {
     blink-caret .75s step-end infinite;
 }
 
-.title-delay {
+.title-delay h1 {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid #6e576c; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
