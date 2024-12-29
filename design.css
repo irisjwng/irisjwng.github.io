@@ -228,17 +228,19 @@ h1 span {
 .title {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   display: inline;
+  width: fit-content;
   border-right: .15em solid #6e576c; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   animation: 
     typing 3.5s steps(40, end),
-    blink-caret .75s step-end;
+    blink-caret .75s step-end infinite;
 }
 
 .title-delay {
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   display: inline;
+  width: fit-content;
   border-right: .15em solid #6e576c; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
