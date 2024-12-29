@@ -243,6 +243,7 @@ h1 span {
     typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
   animation-delay: 4s;
+  animation-fill-mode: both;
 }
 
 /* The typing effect */
