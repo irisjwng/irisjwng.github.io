@@ -232,7 +232,7 @@ h1 span {
   white-space: nowrap; /* Keeps the content on a single line */
   animation: 
     typing 3.5s steps(40, end),
-    blink-caret .75s step-end infinite;
+    blink-caret .75s step-end 3;
 }
 
 .title-delay {
