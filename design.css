@@ -233,7 +233,7 @@ h1 span {
   margin: 0 auto; /* Gives that scrolling effect as the typing happens */
   animation: 
     typing 3.5s steps(40, end),
-    blink-caret .75s step-end infinite;
+    blink-caret .75s step-end;
   animation-fill-mode: forward;
 }
 
@@ -247,7 +247,6 @@ h1 span {
     typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
   animation-delay: 4s;
-  animation-fill-mode: forward;
 }
 
 /* The typing effect */
