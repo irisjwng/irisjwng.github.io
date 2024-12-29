@@ -233,6 +233,7 @@ h1 span {
   animation: 
     typing 3.5s steps(40, end),
     blink-caret .75s step-end 5;
+  animation-fill-mode: forwards;
 }
 
 .title-delay {
