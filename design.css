@@ -234,8 +234,6 @@ h1 span {
   animation: 
     typing 3.5s steps(40, end),
     blink-caret .75s step-end infinite;
-  animation: hideCursor;
-  animation-fill-mode: forwards;
 }
 
 .title-delay {
@@ -260,14 +258,5 @@ h1 span {
 @keyframes blink-caret {
   from, to { border-color: transparent }
   50% { border-color: #6e576c; }
-}
-
-@keyframes hideCursor {
-  0% {
-  }
-  99% {
-  }
-  100% {
-    border-color: transparent;
-  }
+  100% { border-color: transparent }
 }
